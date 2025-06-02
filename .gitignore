@@ -1,0 +1,15 @@
+__pycache__
+.vscode/
+dataset
+checkpoint/model*
+fpga_test*.py
+vivado_project*
+*.log
+vivado_log
+*.jou
+.Xil
+vivado_pid*
+*.bit
+test_videos
+*fixed_point*
+*old*
